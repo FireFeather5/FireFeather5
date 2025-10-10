@@ -1,7 +1,9 @@
 # Profil de FireFeather5
 
+## Bio
+
 Etudiante en deuxième année de BUT Informatique : developpement d'application à l'IUT Robert Schuman d'Illkirch.  
-<!--[Mon CV](lienCV) -->
+[Mon CV](lienCV)
 
 ## Mes projets
 
@@ -21,7 +23,7 @@ Etudiante en deuxième année de BUT Informatique : developpement d'application 
     Solveur de sudoku fait en binôme en Mips32 (assembleur)  
     But : faire de l'assembleur
 
-* [Thèmes pour profils web](lien)  
+* [Thèmes pour profils web](https://github.com/FireFeather5/Toyhou.se-themes)  
     Thèmes crées pour le site Toyhou.se utilisables gratuitements
 
 <!-- https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
