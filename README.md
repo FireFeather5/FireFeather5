@@ -1,9 +1,13 @@
 # Bonjour, moi c'est FireFeather5
 
 Étudiante en deuxième année de BUT Informatique (developpement d'applications) à l'IUT Robert Schuman d'Illkirch.  
-Je suis actuellement en recherche de stage pour la fin de l'année scolaire.  
-[Mon CV](lienCV)
+Je suis actuellement en recherche de stage pour la fin de l'année scolaire.
 
+<div align="center">
+    <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/27267746?1762866521" </img>
+</div>
+
+J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (des dragons).
 
 ## Technologies maitrisées
 
@@ -48,3 +52,23 @@ Je suis actuellement en recherche de stage pour la fin de l'année scolaire.
     Projet académique  
     Solveur de sudoku fait en binôme en Mips32 (assembleur)  
     But : apprendre l'assembleur grâce à un projet ludique
+
+<!-- https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+
+
+<!-- Readme pour projet :
+    titre compréhensible
+    desc de l'appli terminée/fonctionnelle [2 lignes]
+    image (décorative)
+    technos utilisées
+    pas à pas de lancement/installation
+    fonctionnalités : cahier des charges  -->
+
+
+<!-- Lettres motivations
+    1- sucer l'entreprise
+    2- se vendre (capacités techniques)
+    3- se vendre (j'ai grave envie d'aller chez vous)
+    4- se vendre (caractéristiques (je suis le meilleur candidat))
+    5- "je reste à disposition" + "merci d'avoir lu"
+    6- phrase de politesse finale -->
