@@ -34,6 +34,11 @@ Je suis actuellement en recherche de stage pour la fin de l'année scolaire.
     Jeu fait en binome en Java  
     But : utiliser les classes présentes en Java et la POO pour faire un jeu en lignes de commandes basé sur le jeu de rôle Donjons et Dragons
 
+* [Application de gestion](https://github.com/FireFeather5/Application-de-gestion)  
+    Projet académique  
+    Application faite en trinome en C#  
+    But : utiliser Visual Studio pour créer une application permettant aux utilisateurs de gérer et modifier des informations contenues dans une base de données
+
 * [Yams et affichage web des parties finies](https://github.com/FireFeather5/Jeu-de-Yams)  
     Projet académique  
     Jeu fait en binôme en C# avec affichage des parties finies en HTML/CSS/JavaScript  
