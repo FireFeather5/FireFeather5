@@ -4,7 +4,7 @@
 Je suis actuellement en recherche de stage pour la fin de l'année scolaire.
 
 <div align="center">
-    <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/27267746?1762866521" </img>
+    <img src="/noumb.png" </img>
 </div>
 
 J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (des dragons).
