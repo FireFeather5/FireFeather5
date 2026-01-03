@@ -4,7 +4,7 @@
 Je suis actuellement en recherche de stage pour la fin de l'année scolaire.
 
 <div align="center">
-    <img src="/noumb.png" </img>
+    <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/27267746?1762866521" </img>
 </div>
 
 J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (des dragons).
@@ -15,7 +15,7 @@ J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (d
 <img src="https://skillicons.dev/icons?i=c,cs,java,godot,mysql" />
 
 * **Web**  
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,bootstrap" />
 
 * **Logiciels**  
 <img src="https://skillicons.dev/icons?i=neovim,idea,godot,vscode,visualstudio" />
@@ -30,7 +30,7 @@ J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (d
 
 * [Thèmes de profils web](https://github.com/FireFeather5/Toyhou.se-themes)  
     Projet personnel  
-    Thèmes fait en HTML avec CSS intégré  
+    Thèmes fait en HTML avec Bootstrap et CSS intégré  
     Thèmes crées pour le site Toyhou.se utilisables gratuitement
 
 * [Doonjons et dragons](https://github.com/FireFeather5/Doonjons-et-dragons)  
@@ -52,23 +52,3 @@ J'aime regarder des animés, les jeux vidéos, lire, les dragons, et dessiner (d
     Projet académique  
     Solveur de sudoku fait en binôme en Mips32 (assembleur)  
     But : apprendre l'assembleur grâce à un projet ludique
-
-<!-- https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-
-
-<!-- Readme pour projet :
-    titre compréhensible
-    desc de l'appli terminée/fonctionnelle [2 lignes]
-    image (décorative)
-    technos utilisées
-    pas à pas de lancement/installation
-    fonctionnalités : cahier des charges  -->
-
-
-<!-- Lettres motivations
-    1- sucer l'entreprise
-    2- se vendre (capacités techniques)
-    3- se vendre (j'ai grave envie d'aller chez vous)
-    4- se vendre (caractéristiques (je suis le meilleur candidat))
-    5- "je reste à disposition" + "merci d'avoir lu"
-    6- phrase de politesse finale -->
